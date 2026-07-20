@@ -28,7 +28,7 @@ local function httpPost(url, body)
 end
 
 -- ── Limpiar instancia anterior ────────────────────────────────
-if playerGui:FindFirstChild("X23LoaderMobile") then
+if playerGui:FindFirstChild("X23Loader") then
     playerGui.X23LoaderMobile:Destroy()
 end
 
