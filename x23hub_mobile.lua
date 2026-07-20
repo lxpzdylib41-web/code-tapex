@@ -13,7 +13,7 @@ screenGui.Name = "X23HUB_M"
 screenGui.ResetOnSpawn = false
 screenGui.Parent = playerGui
 
-local ICON_ID = "rbxassetid://-101579838151121" -- 🔁 Cambia por tu imagen
+local ICON_ID = "rbxassetid://105942777284630" -- 🔁 Cambia por tu imagen
 
 -- ============================================================
 -- TRADUCTOR EN → ES
