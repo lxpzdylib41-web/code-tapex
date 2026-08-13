@@ -105,7 +105,7 @@ do
     titleSplash.Size = UDim2.new(1, 0, 0, 72)
     titleSplash.Position = UDim2.new(0, 0, 0, 0)
     titleSplash.BackgroundTransparency = 1
-    titleSplash.Text = "COOKIES HUB"
+    titleSplash.Text = "🍪 HUB"
     titleSplash.TextColor3 = Color3.fromRGB(255, 255, 255)
     titleSplash.Font = Enum.Font.GothamBlack
     titleSplash.TextSize = 46
@@ -1962,7 +1962,7 @@ BrandImage.BackgroundTransparency =
     1
 
 BrandImage.Image =
-    "rbxassetid://71891923282375"
+    "rbxassetid://11104447804"
 
 BrandImage.ScaleType =
     Enum.ScaleType.Fit
@@ -1978,7 +1978,7 @@ addCorner(
 makeLabel(
     Header,
     "Title",
-    "COOKIES HUB SNIPER X ACE DUELS",
+    "COOKIES HUB SNIPER",
     UDim2.fromOffset(180, 25),
     UDim2.fromOffset(56, 17),
     15,
